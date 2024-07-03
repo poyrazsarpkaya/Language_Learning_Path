@@ -1,0 +1,8 @@
+1. download visual studio
+2. download c/c++ and code runner in visual studio
+3. settings> run terminal: open
+4. Go to winlibs.com and download UCRT runtime gcc compiler module
+5. extract and move mingw64 to C:\
+6. copy path (C:\mingw64\bin)
+7. advanced system setting> enviroment> enviroment variables> path> edit> new > paste(C:\mingw64\bin)
+8. Ready.
