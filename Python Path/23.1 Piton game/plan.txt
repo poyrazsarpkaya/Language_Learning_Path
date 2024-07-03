@@ -1,0 +1,38 @@
+okay şimdi yeni oyunumuz için planımızı yapalım
+
+Kullanıcının 3 herosu olucak  bunları belirleyecek başta
+isim
+tank:
+canı hayvan gibi
+saldırısı düşük
+
+
+süikastçi
+savaşçı
+büyücü
+hero özellikleri için skills diyin
+
+düşmanın 3 herosunun özellikleri rastgele verilecek ve ekrana yazılacak
+
+savaşı başlatma butonu
+
+savaş başlıyor ekranı
+Rakip aranıyor ekranı 
+düşman bulundu ekranı ve özellikleri
+Piton tıss Arena
+Hero seç
+rastgele biriyle eşleştir ve özelliklerini göster
+eşleştirdüşman özellikleri:
+
+1.tur iki defa kapışsınlar
+savaştır
+bilançoyu yazdır yada ölmüşde bitir bitmemişsse 2. tura geçsin
+skoru yazdır
+
+2. tur 
+seçsin ve eşleşip kapışssınlar ölmezlerse 2. tur düzenlensin otomatk olarak
+
+3. turu başlatmak için enter desin artık 1 kişi kaldı taktik yok sadece turu başlat  :)
+
+
+

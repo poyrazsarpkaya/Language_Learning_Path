@@ -1,0 +1,5 @@
+iyiyimiyiyimLinux un doğuşu:
+ Siz nas�ls�n�z? Linux açık kaynak kodlu yazılım dünyasının temeli olmuştur. Buna öncülük eden ise finlandiyalı Linux Torvalstır
+
+GNU: Richard tarafından yapılan açık kaynak kodlu programların bulunduğu bütüne verilen addır.
+Aslıında linux bu birleşim ile rtaya çkmıştır

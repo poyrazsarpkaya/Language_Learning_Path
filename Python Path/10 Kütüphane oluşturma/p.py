@@ -1,0 +1,1 @@
+Merhaba eski dostum 40.5 Yıl oldu görüşmeyeli aha ah neler oldu bir bilsen!
